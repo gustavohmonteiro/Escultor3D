@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1654036511 source:c:\users\micro\desktop\escultor 3d\monitor\escultor3d\escultor.cpp
+	<cstdlib>
+	<iostream>
+	"sculptor.h"
+	<vector>
+	<fstream>
+	<cmath>
+
+1654036523 c:\users\micro\desktop\escultor 3d\monitor\escultor3d\sculptor.h
+	"voxel.h"
+
+1654036650 c:\users\micro\desktop\escultor 3d\monitor\escultor3d\voxel.h
+
